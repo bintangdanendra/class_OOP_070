@@ -29,7 +29,7 @@ class matakuliah {
 private:
     string kode;
     string namaMK;
-    int sks;
+    int sks; 
 public:
     void inputMK() {
         cout << "\n\nMasukan kode matakuliah : ";
