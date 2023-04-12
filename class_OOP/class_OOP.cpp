@@ -5,7 +5,7 @@ class Mahasiswa {
 private:
     int nim;
     string nama;
-    float nilai;
+    float nilai; 
 public:
     void input() {
         cout << "Masukan NIM : ";
