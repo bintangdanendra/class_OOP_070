@@ -45,7 +45,7 @@ public:
         cout << "\nNama matakuliah : " << namaMK;
         cout << "\nsks : " << sks;
     }
-};
+}; 
 
 int main()
 {
