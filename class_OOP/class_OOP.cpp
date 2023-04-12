@@ -14,7 +14,7 @@ public:
         cin >> nama;
         cout << "Masukan Nilai : ";
         cin >> nilai;
-    }
+    } 
     void printData();
 };
 
