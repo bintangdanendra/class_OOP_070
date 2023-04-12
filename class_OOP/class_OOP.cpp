@@ -50,7 +50,7 @@ public:
 int main()
 {
     Mahasiswa mhs;
-    matakuliah mk;
+    matakuliah mk; 
 
     mhs.input();
     mhs.printData();
